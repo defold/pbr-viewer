@@ -1,5 +1,5 @@
 mesh: "/main/preview.glb"
-material: "/builtins/materials/model.material"
+material: "/main/preview.material"
 textures: "/assets/images/green.png"
 skeleton: ""
 animations: ""

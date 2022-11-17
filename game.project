@@ -14,7 +14,7 @@ input_method = HiddenInputField
 package = com.defold.example.basic3d
 
 [project]
-title = Basic 3D project
+title = Defold PBR Viewer
 dependencies#0 = https://github.com/Jhonnyg/vantage/archive/refs/heads/master.zip
 
 [physics]
