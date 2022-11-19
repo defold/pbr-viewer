@@ -1,6 +1,6 @@
 mesh: "/main/preview.glb"
 material: "/main/preview.material"
-textures: "/assets/images/green.png"
+textures: ""
 skeleton: ""
 animations: ""
 default_animation: ""
