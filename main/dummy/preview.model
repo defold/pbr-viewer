@@ -1,5 +1,5 @@
-mesh: "/main/preview.glb"
-material: "/main/preview.material"
+mesh: "/main/dummy/preview.glb"
+material: "/main/dummy/preview.material"
 textures: ""
 skeleton: ""
 animations: ""

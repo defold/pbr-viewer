@@ -21,7 +21,7 @@ embedded_instances {
   "}\n"
   "components {\n"
   "  id: \"preview\"\n"
-  "  component: \"/main/preview.model\"\n"
+  "  component: \"/main/preview.collectionproxy\"\n"
   "  position {\n"
   "    x: 0.0\n"
   "    y: 0.0\n"
