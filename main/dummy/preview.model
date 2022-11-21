@@ -1,6 +1,6 @@
 mesh: "/main/dummy/preview.glb"
 material: "/main/dummy/preview.material"
-textures: ""
+textures: "/assets/textuers/black.jpg"
 skeleton: ""
 animations: ""
 default_animation: ""
